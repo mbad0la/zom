@@ -2,6 +2,8 @@
 
 A simple cli tool to interact with [Zomato APIs](https://developers.zomato.com) via CLI.
 
+Requires Node v4+
+
 ```bash
 # Installation
 $ npm i zom -g 
