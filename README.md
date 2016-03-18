@@ -3,6 +3,9 @@
 A simple cli tool to interact with [Zomato APIs](https://developers.zomato.com) via CLI.
 
 ```bash
+# Installation
+$ npm i zom -g 
+# Usage
 $ zom Starbucks
 Starbucks (⭐️ ⭐️ ⭐️  3.9 Very Good)
     🕸  https://www.zomato.com/ncr/starbucks-1-connaught-place-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1

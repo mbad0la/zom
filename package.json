@@ -1,8 +1,9 @@
 {
   "name": "zom",
-  "version": "1.0.0",
+  "version": "0.0.5",
   "description": "CLI app for Zomato Search API",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "start": "node index"
   },

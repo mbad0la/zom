@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const fetch = require('node-fetch');
 
 const key = '17c5c4c6e845e73f4296fa83b502b87c';
